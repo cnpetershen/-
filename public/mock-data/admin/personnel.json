@@ -1,0 +1,19 @@
+[
+  {
+    "name": "111",
+    "position": "Manager"
+  },
+  {
+    "name": "222",
+    "position": "Assistant Manager"
+  },
+  {
+    "name": "333",
+    "position": "Staff"
+  },
+  {
+    "name": "444",
+    "position": "Intern"
+  }
+
+]

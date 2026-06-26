@@ -1,0 +1,20 @@
+[
+  {
+    "name": "今日访问",
+    "value": 1234,
+    "icon": "success",
+    "color": "#2ec7c9"
+  },
+  {
+    "name": "今日提问",
+    "value": 210,
+    "icon": "star-on",
+    "color": "#ffb980"
+  },
+  {
+    "name": "今日回复",
+    "value": 150,
+    "icon": "message",
+    "color": "#d87a80"
+  }
+]
